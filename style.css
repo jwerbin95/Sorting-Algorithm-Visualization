@@ -1,0 +1,9 @@
+body {
+	text-align: center;
+}
+button {
+	display: inline-block;
+}
+canvas {
+	border: solid;
+}
